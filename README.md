@@ -17,4 +17,7 @@ Here are some ideas to get you started:
     This is an inline comment
 this is not inline
 
-``` this is the only inline comment that works on bitbucket
+```
+this is the only inline comment that works on bitbucket
+
+without closing, this is still inline
